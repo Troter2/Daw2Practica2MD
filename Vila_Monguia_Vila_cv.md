@@ -1,8 +1,32 @@
->>>>>>>>>>>>>>>>>>>>>>### SERGI VILA
+### &nbsp; SERGI VILA
 
 
 ___
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carrer Abellaa
+|   |               |  |                            |
+|---|---------------|------------|----------------------------|
+|   | Carrer Abella |            | sergivilamonguia@gmail.com |
+|   | Albatarrec    |            |                            |
 
-<p>Markdown is a `&lt;em&gt;text-to-html&lt;/em&gt;` conversion tool for writers.</p>
+___
+
+##<span style="color:green">___Estudis</span>
+
+| 2017-2019 	|   	| Sistemes microinformatics i xarxes 	|
+|-----------	|---	|-----------------------------------:	|
+| 2019-2021 	|   	| Desenvolupament d'aplicacions web 	|
+
+##<span style="color:green">___Experiencia</span>
+
+| Empresa 	|   	| Posicio 	|
+|-----------	|---	|-----------------------------------:	|
+| PcBox 	|   	| Tecnic en reparacio d'equips 	|
+| Indra 	|   	| Programador 	|
+| 2019-2021 	|   	| Desenvolupament d'aplicacions web 	|
+
+##<span style="color:green">___Altres dades</span>
+
+|  	|   	|  	|
+|-----------	|---	|-----------------------------------	|
+|  	|   	| Amb carnet de conduir 	|
+|  	|   	| Disponibilitat completa entre setmana 	|
